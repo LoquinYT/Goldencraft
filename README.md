@@ -1,2 +1,2 @@
 # Goldencraft
-loquinyt.github.io/Goldencraft
+https://loquinyt.github.io/Goldencraft
