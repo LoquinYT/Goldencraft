@@ -3,5 +3,4 @@ https://loquinyt.github.io/Goldencraft
 
 Hecho solo por diversión
 
-The song in this project is "Chill day"
-(C)
+Chill Day de LAKEY INSPIRED está posteada bajo Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
